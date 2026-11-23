@@ -1,4 +1,7 @@
-# Fluid-Simulation-with-cellular-automata
+# Fluid simulation with cellular automata
+
+This repository is based on original work by [GaitanJulian](https://github.com/GaitanJulian/Fluid-Simulation-with-cellular-automata). The upstream project has no licence file.
+
 This is a simulation of water using cellular automata and pygame to render the simulation.
 
 Each cell of a 50x50 grid is air, solid ground, or holds some mass of water. Every frame, water
